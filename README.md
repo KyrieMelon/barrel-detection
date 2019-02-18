@@ -1,5 +1,5 @@
 # barrel-detection
-## Discription
+## Description
 barrel_detector.py: Main function 
 
 hand_label.py: Handlabel color class using roipoly function. You can create as many classes as you like. Here I only choose three classes:'blue', 'not_blue' and 'not_barrel_blue'. Save them as .png 
